@@ -1,0 +1,2439 @@
+{
+  "mod": "Mega Creature Pack",
+  "version": "0.10.6",
+  "assets": [
+    {
+      "title": "Acid Spider",
+      "path": "images/acid-spider.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "148f5aafe6c06e710081813da0f8789ca5659e5dc9a3926c6663edcfe09feeba"
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/acid-worm.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d6f558efa2dfc252eb7a440f0a14aeae22c6b4cf726bb3ec896a6e09ecb0211e"
+    },
+    {
+      "title": "Alligator Turtle",
+      "path": "images/alligator-turtle.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c9d615d486d1fe1a559e4da0df542475162cd61e0055c90d420ecc6dd1dfe64b"
+    },
+    {
+      "title": "Bloodkelp Lanternjaw",
+      "path": "images/bloodkelp-lanternjaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "00e6ce280fff16d2f1dc1691efd65cde20581849d411ee0d30686394ed57b57f"
+    },
+    {
+      "title": "Bloodkelp Lurker",
+      "path": "images/bloodkelp-lurker.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d2e63d2cec79d64f7c1b14434dbe619fa7ea244bf3813ff3a5d0cde09a56d0c0"
+    },
+    {
+      "title": "Bulb Moray",
+      "path": "images/bulb-moray.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "84afd8e0b5835893c6134a891c8617a924e6fcf8e42f97f26c1e96f1ec33b690"
+    },
+    {
+      "title": "Caridean Shrimp",
+      "path": "images/caridean-shrimp.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4abee3e4c02ace17acd6e17ff25274062187c088fd5b7035524c2c54207bd9ba"
+    },
+    {
+      "title": "Chambered Nautilus",
+      "path": "images/chambered-nautilus.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4aa9aa8c6f811012634256714f5a7c6db92e63c7e1c3923ee68376d9540fa295"
+    },
+    {
+      "title": "Coconut Crab",
+      "path": "images/coconut-crab.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c2f4e855d91a2693bd12c8d9e3aceeb8317469b31acd2d826bf9c079516b918b"
+    },
+    {
+      "title": "Curse Lanternjaw",
+      "path": "images/curse-lanternjaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a4e58c213086e5960f61ff59a1c48bbb74885cdc4b11e242cb0dd4b4e22c6d0b"
+    },
+    {
+      "title": "Dolphin",
+      "path": "images/dolphin.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c4374c829a037501d338fb74f10c155d963e007fcfbc4ebc20e135664714e34e"
+    },
+    {
+      "title": "Duskmaw",
+      "path": "images/duskmaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9b02c76435530dec06ba73480eee7bfb4a32a5e0c25fef697bc51f3d49e2f882"
+    },
+    {
+      "title": "Ghost Shark",
+      "path": "images/ghost-shark.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "06209003d81ae444101f5ea123935904fe342d43e8e25c4eca22671c015f4171"
+    },
+    {
+      "title": "Glowjaw",
+      "path": "images/glowjaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4ee224d2112d0f163314b142326be0b263b3bc30271146c87b91ec9d2bac9880"
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/goblin-shark.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7ff33df538024c132be664fc61d9158181b07a4d1431c4d12937c3052bcd6311"
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/grand-reef-blue-whale-calf.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e6bc59102c73d2874b60aff36e7864c3c09123c528c76b56ea6e69220243ea37"
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/grand-reef-blue-whale.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5f85fa0d6bd7207807f48911e7ce981b8e6721a23801f505487156b91aeabd7c"
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/hammerhead-shark.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0b87ca437f666be44be5bed5b6258ebeb00260ab0fae3b496413012e8f01d60a"
+    },
+    {
+      "title": "Horseshoe Crab",
+      "path": "images/horseshoe-crab.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "588312ab1e05b9566452769a8d8a5cc309b66ee4595458f85b4cc85339031274"
+    },
+    {
+      "title": "Isle Remora",
+      "path": "images/isle-remora.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3847d3052b921dbf745b75df10cb2c545107c87807d5533ebc6ef2ce1988f985"
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "images/kelp-piranha.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ae8a2d3ba3288d8a388884344c1fb16fa2db46f418010a77f1a39cb7db1674a4"
+    },
+    {
+      "title": "Kelpfin",
+      "path": "images/kelpfin.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "55282433c03b704f9f672b144f424b94d17644a3e5a18b8ce383b357ca2d2d24"
+    },
+    {
+      "title": "Mantis Shrimp",
+      "path": "images/mantis-shrimp.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "347a2df93ce9eda43daed0758af366af00a35e45d83fb345e10e3fccd56aa4aa"
+    },
+    {
+      "title": "Meadowdart",
+      "path": "images/meadowdart.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c87051d5af3b3c843393c266819c3c57ae4d6846aacc49bcd9271962ffeebd90"
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/megalodon.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2d57f1103aac83700f3eb616f9e964209233efbcc23c347a031383567330abf8"
+    },
+    {
+      "title": "Mushroom Moray",
+      "path": "images/mushroom-moray.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "255990af929f1e22603a948f76d96f70e920ba97b564a613a7ce8917d3c83efe"
+    },
+    {
+      "title": "Plateau Sailfish",
+      "path": "images/plateau-sailfish.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ba110d3a06c3a41619b2ae79db7cdb487f71eb2bfdd0486ae4be681a36da35f8"
+    },
+    {
+      "title": "Reef Lanternjaw",
+      "path": "images/reef-lanternjaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4de7b53b425ce53064dc5eb1e504188d27176deee6d9444ceaeae1fcff38076e"
+    },
+    {
+      "title": "Reef Snapjaw",
+      "path": "images/reef-snapjaw.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0ccb0768bc72407960aaa48c5085d6e2403f2236a693b0e267084bfab60b9fca"
+    },
+    {
+      "title": "Rift Prowler",
+      "path": "images/rift-prowler.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d6735d6fb283a32d059b5850fd4db6a00a6022ae211a24540de503989558ecb8"
+    },
+    {
+      "title": "Royal Crab",
+      "path": "images/royal-crab.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "99678ae19a7cc1c52110db6e53bd321f26ed696d31afc76f159c7c0a6eeeabef"
+    },
+    {
+      "title": "Sea Turtle",
+      "path": "images/sea-turtle.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e66e6917b012a7c98185cbcf72dfa6ba86a0f1ee5b05a8783d893fc6473d9c2e"
+    },
+    {
+      "title": "Shallows Porcupinefish",
+      "path": "images/shallows-porcupinefish.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e13f2682b6a5fc8b6b1f305fed6f145deea1827f0d58383c36b8f140d894dde2"
+    },
+    {
+      "title": "Sparse Reef Ray",
+      "path": "images/sparse-reef-ray.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6c533753e04fe34f85e22b2d701928ca14e1e7886376927594ea21b49a386a06"
+    },
+    {
+      "title": "Spider Crab",
+      "path": "images/spider-crab.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "56277e8c6d96f664d460c7cde978c05b9a1dff3b0bdb0f7aabdfaab71d0d4505"
+    },
+    {
+      "title": "Sporefin",
+      "path": "images/sporefin.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2dea6937b1a32b5807eae39352a39b7ee65bd2f3e4f3d11ae56fabe45650fc9e"
+    },
+    {
+      "title": "Tortilla Turtle",
+      "path": "images/tortilla-turtle.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7c2e6f305d4170999a5f44ee3c667f7e98f7aca6db87abea73ef66828be6247e"
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/walrus-seal.jpg",
+      "group": "Portrait",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3247c89a5f6ea29b829b2ed4efd116efbf2865366148a5abc45fd6d682a4ec7"
+    },
+    {
+      "title": "Creature gallery contact sheet",
+      "path": "images/contact-sheet.png",
+      "group": "Contact sheet",
+      "width": 1622,
+      "height": 1734,
+      "sha256": "59b94cc09564b806849a585955a48aaf9f3a23ec232a1ddf113a16ba71ba05ea"
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/field/acid-worm-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "df418c7bc4637c952cdf829e8661404315910a0b386002eedbb5a3437fcaf9fe"
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/field/acid-worm.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "40fb494d44dd083a95aaa9647f9d37e64271e2bbed10e36101db14ba74b1059a"
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/field/goblin-shark-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f4cb8cb2718c220f68bafbc1904ccd32672403e95d065006fcac3dad14a77342"
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/field/goblin-shark.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6387858f6503055fc7a09731c75c689e1ef4c1f7b03920feba3f408724e740c1"
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/field/grand-reef-blue-whale-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "84f841cb0f195b0e075e092a520497952a1cbba6bb72cc3cf89fac70206790be"
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/field/grand-reef-blue-whale-calf-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3a8aa9e5654187f0c5efda77e9cf44059961421bb779f04e4759c5a9fd21463"
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/field/grand-reef-blue-whale-calf.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5b3b1dcad4c20d57fd1ef842126e7a81065ed37ce4a6f2a8fc7267b457c06d30"
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/field/grand-reef-blue-whale.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "be3c19aed4a5e556613e6d1a9641cf8488554522e307e17a2ddb12d2f889caec"
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/field/hammerhead-shark-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "117ce74a45c21aa6bf8fa6a6148723670c54b9e099816b74d3f5b52270f048b2"
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/field/hammerhead-shark.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5800def80c96b720a861db8c10b454db8fa40ae1e65afd0d49f7ce136edaa1c5"
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/field/megalodon-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7c45ffe7350cd655b094226b76e28f8102ac7ba736535efbbea13eb7c7804c5b"
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/field/megalodon.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "76eb502481044c79292982d1696b996de0a8cf14778d7649c324f6649ac72b44"
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/field/walrus-seal-2.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fb259b4ab432981761d5d7c1ec290129f3e37eac68a511d8dcb9d5eaf37250ab"
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/field/walrus-seal.jpg",
+      "group": "Size review",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fa2fe1eed02fe2b799d21c2095ce5d756c905903093a40a6b40925064e31ef1c"
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/gallery/megalodon-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d7f6a936df51130515d37aaa0322f920115e186915e6cac6db945be84017e241",
+      "habitat": "dunes",
+      "coordinates": [
+        -1060,
+        -90,
+        200
+      ]
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/gallery/megalodon-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f89f61a7d1697010d49ffa6920cdb132dd99e60d61c056fe4045620984d37625",
+      "habitat": "dunes",
+      "coordinates": [
+        -1060,
+        -90,
+        200
+      ]
+    },
+    {
+      "title": "Dolphin",
+      "path": "images/alternates/gallery/dolphin-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "94deae6d6394b441422164bdab182d802e4acd21fd0861ed56aa8df5cb2f12e6",
+      "habitat": "underwaterIslands",
+      "coordinates": [
+        -55,
+        -88,
+        550
+      ]
+    },
+    {
+      "title": "Isle Remora",
+      "path": "images/alternates/gallery/isle-remora-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4e480bdb56ed37ca60a8c4bc04556592fd25a9db48d4f824ecefad8b91c036ba",
+      "habitat": "underwaterIslands",
+      "coordinates": [
+        -220,
+        -88,
+        935
+      ]
+    },
+    {
+      "title": "Meadowdart",
+      "path": "images/alternates/gallery/meadowdart-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d319cd77c71cc99317f488e6a582688f12c098c7e8616d4403e2ebfdf2ab2de4",
+      "habitat": "grassyPlateaus",
+      "coordinates": [
+        165,
+        -42,
+        -55
+      ]
+    },
+    {
+      "title": "Kelpfin",
+      "path": "images/alternates/gallery/kelpfin-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "613542bb20237b2bf232ef266936d2834828551bdcb4ca56118cb85050fbcf60",
+      "habitat": "kelpForest",
+      "coordinates": [
+        110,
+        -18,
+        -110
+      ]
+    },
+    {
+      "title": "Sporefin",
+      "path": "images/alternates/gallery/sporefin-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0292054837dd6cc02502fab43f89ab9f743cbe3a3f7b14232bf5b7bed32d87bb",
+      "habitat": "mushroomForest",
+      "coordinates": [
+        523,
+        -70,
+        275
+      ]
+    },
+    {
+      "title": "Rift Prowler",
+      "path": "images/alternates/gallery/rift-prowler-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "33f1d8831023f58fd967c5d2c04b40c83552734145827786bff0eba64e199a87",
+      "habitat": "sparseReef",
+      "coordinates": [
+        -510,
+        -99,
+        -505
+      ]
+    },
+    {
+      "title": "Reef Snapjaw",
+      "path": "images/alternates/gallery/reef-snapjaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f619355b5df26cfa767f2628345e6c5f9826a808b2bfbec77f837a5f10c2bba9",
+      "habitat": "grandReef",
+      "coordinates": [
+        -330,
+        -145,
+        -660
+      ]
+    },
+    {
+      "title": "Bloodkelp Lurker",
+      "path": "images/alternates/gallery/bloodkelp-lurker-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "45fea1e2cb77df51b05ea92215b520c65ee4da61b85b352679adad4bc0f6698d",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -770,
+        -165,
+        -330
+      ]
+    },
+    {
+      "title": "Bulb Moray",
+      "path": "images/alternates/gallery/bulb-moray-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "493dcd01e003828563362e09423693e25f03e62d10033290d9825dfa3022e207",
+      "habitat": "kooshZone",
+      "coordinates": [
+        880,
+        -92,
+        440
+      ]
+    },
+    {
+      "title": "Ghost Shark",
+      "path": "images/alternates/gallery/ghost-shark-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "928b530b6a7b35102500b9f183fcc3f296cf551b4b3c2ea93cfbf34a5dbd1ef9",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1265,
+        -145,
+        -990
+      ]
+    },
+    {
+      "title": "Bloodkelp Lanternjaw",
+      "path": "images/alternates/gallery/bloodkelp-lanternjaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6723bd33f802acdea9c9da446f27e6a7a3d89e90c8500a020d8b99bc75a817e4",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1210,
+        -165,
+        -385
+      ]
+    },
+    {
+      "title": "Reef Lanternjaw",
+      "path": "images/alternates/gallery/reef-lanternjaw-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9b7020d4f2f99bf74050c23a7a15f2617a3be52e8d99a2c9a032072a3fa56750",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1045,
+        -145,
+        -1650
+      ]
+    },
+    {
+      "title": "Curse Lanternjaw",
+      "path": "images/alternates/gallery/curse-lanternjaw-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6b03c01656ece8f58ad093d76be6a26288808a5c7f4b07f7bbf6d165db68eb42",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1100,
+        -165,
+        -440
+      ]
+    },
+    {
+      "title": "Plateau Sailfish",
+      "path": "images/alternates/gallery/plateau-sailfish-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "71ab655f75166526c10671357fd139c53547695c800fd105d2585e4439c54ab7",
+      "habitat": "grassyPlateaus",
+      "coordinates": [
+        440,
+        -42,
+        495
+      ]
+    },
+    {
+      "title": "Shallows Porcupinefish",
+      "path": "images/alternates/gallery/shallows-porcupinefish-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ad0b1ec72fa895c629ac0496550b924c2b1ba0eadbcef690fc0ef0b2d52aaab6",
+      "habitat": "safeShallows",
+      "coordinates": [
+        0,
+        -7,
+        0
+      ]
+    },
+    {
+      "title": "Caridean Shrimp",
+      "path": "images/alternates/gallery/caridean-shrimp-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "535ea00229d49689679f30ff8dc9f62a9208da34cb196e8c7bad6c242b8dec09",
+      "habitat": "safeShallows",
+      "coordinates": [
+        275,
+        -7,
+        -220
+      ]
+    },
+    {
+      "title": "Sparse Reef Ray",
+      "path": "images/alternates/gallery/sparse-reef-ray-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d935f51266b7f8b9fa3618a700ee9f6cd8a1305a386080a748da4223ca556751",
+      "habitat": "sparseReef",
+      "coordinates": [
+        -495,
+        -105,
+        -495
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/gallery/hammerhead-shark-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d0b5a3053170132e57fe0d3e4b884b88de6ff04324171347dd8b49cdde577931",
+      "habitat": "mountains",
+      "coordinates": [
+        330,
+        -135,
+        770
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/gallery/hammerhead-shark-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "735a84c1701a3b0f728eb122f334cb9f7682e2ffd2dd2b08028aae82399286d1",
+      "habitat": "mountains",
+      "coordinates": [
+        330,
+        -135,
+        770
+      ]
+    },
+    {
+      "title": "Horseshoe Crab",
+      "path": "images/alternates/gallery/horseshoe-crab-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d0208c42f4c9cf355e071c1edb541513ff77a75c4688488b050e0cd2d9d0d33c",
+      "habitat": "grassyPlateaus",
+      "coordinates": [
+        -825,
+        -42,
+        55
+      ]
+    },
+    {
+      "title": "Mantis Shrimp",
+      "path": "images/alternates/gallery/mantis-shrimp-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f897076dcd97cbeb701c58a4c45925aaaa6362250d0d69187761f64245510c43",
+      "habitat": "kooshZone",
+      "coordinates": [
+        1155,
+        -92,
+        880
+      ]
+    },
+    {
+      "title": "Chambered Nautilus",
+      "path": "images/alternates/gallery/chambered-nautilus-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bf9a40c3ee1a5fbbb208397d2e45c8f8829d4a779e05937e22f88c39a6fc936f",
+      "habitat": "sparseReef",
+      "coordinates": [
+        -715,
+        -105,
+        -385
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/gallery/grand-reef-blue-whale-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5ff81372fe9975b8a133964ad5253daf069ca917843c70bf788ecacbe5e01a6a",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1265,
+        -115,
+        -990
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/gallery/grand-reef-blue-whale-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f9a65b04d52ad0e355ad38eab1b8577b839640acfb6b9c396ae7767e98c4799b",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1265,
+        -115,
+        -990
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/gallery/grand-reef-blue-whale-calf-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2e370c402d3ee333c44f6d136a7967bffad09942c4d25a78c5d5720d43914630",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1430,
+        -115,
+        -1265
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/gallery/grand-reef-blue-whale-calf-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "551d6cefd0af5d3370e255ca03ac20918a539af9ef8eecda4b895ef313aba339",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1430,
+        -115,
+        -1265
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/gallery/walrus-seal-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6d76c08b1353c5a3736f83f75fefe8fc797436a41188ea16be3bc9a129d51273",
+      "habitat": "mountains",
+      "coordinates": [
+        1155,
+        -135,
+        935
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/gallery/walrus-seal-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a453b8df78d21c29a1c8c3ddec1b2f273092f34aa1ce93c1ca691c409a585057",
+      "habitat": "mountains",
+      "coordinates": [
+        1155,
+        -135,
+        935
+      ]
+    },
+    {
+      "title": "Alligator Turtle",
+      "path": "images/alternates/gallery/alligator-turtle-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e0132c05df2055ecfaedce18a8877b95bd9ad672f5c573561ea0056a9937621f",
+      "habitat": "sparseReef",
+      "coordinates": [
+        -495,
+        -105,
+        -715
+      ]
+    },
+    {
+      "title": "Sea Turtle",
+      "path": "images/alternates/gallery/sea-turtle-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "63dc6838fd478b712d150a245775cc48a480260b18ae22806a6fb76e2c3422ad",
+      "habitat": "kelpForest",
+      "coordinates": [
+        -330,
+        -18,
+        55
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/gallery/acid-worm-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8aecbba9de1e539d0e05474f954f056e3752c9771e6ed061e682bafbc8444161",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/gallery/acid-worm-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ac0e67b5cd64eb2e9af11e58b58b237f0ee40ff1a587b2ad14ed6e07ba529c36",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Coconut Crab",
+      "path": "images/alternates/gallery/coconut-crab-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "85dba058c251d9c17b85b276654101f0f3edaa0d8da4c3ac5fc7eb4dde20929c",
+      "habitat": "island",
+      "coordinates": [
+        -745,
+        23.37,
+        -1105
+      ]
+    },
+    {
+      "title": "Spider Crab",
+      "path": "images/alternates/gallery/spider-crab-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4438d45bd5e4aa05f327f4510827aaedb78fa363cedfa4ec7b462473a62e669d",
+      "habitat": "floorDunes",
+      "coordinates": [
+        -1444,
+        -285.93,
+        138
+      ]
+    },
+    {
+      "title": "Spider Crab",
+      "path": "images/alternates/gallery/spider-crab-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4911d9befc0d3c6bd7f793be72821db9b138ae5f347cd66316d88f32abbb5247",
+      "habitat": "floorDunes",
+      "coordinates": [
+        -1444,
+        -285.93,
+        138
+      ]
+    },
+    {
+      "title": "Mushroom Moray",
+      "path": "images/alternates/gallery/mushroom-moray-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "82459c0e6299cd7a8ad6526441bc7fbe55395a6a345ff6fee7f7547610705949",
+      "habitat": "mushroomForest",
+      "coordinates": [
+        1100,
+        -70,
+        220
+      ]
+    },
+    {
+      "title": "Acid Spider",
+      "path": "images/alternates/gallery/acid-spider-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2d1e0a8e0756c566df480740ba27dbf4718f86d125077ba0b655f357fa9e23b8",
+      "habitat": "island",
+      "coordinates": [
+        391,
+        18.23,
+        1085
+      ]
+    },
+    {
+      "title": "Acid Spider",
+      "path": "images/alternates/gallery/acid-spider-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7b1b3c004582ff510dee12579fdb846f80f2c0277b49c220e335defe26cddce4",
+      "habitat": "island",
+      "coordinates": [
+        391,
+        18.23,
+        1085
+      ]
+    },
+    {
+      "title": "Royal Crab",
+      "path": "images/alternates/gallery/royal-crab-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "509aa394062eec61666afd5f98083f0d1d917fe17597721ddff23736ab40ec5c",
+      "habitat": "island",
+      "coordinates": [
+        -753,
+        19.51,
+        -1141
+      ]
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "images/alternates/gallery/kelp-piranha-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "56f7c57c37928cd8873cd192c1554815e6ae1508d06ae771a8b94b63fb1f0741",
+      "habitat": "kelpForest",
+      "coordinates": [
+        110,
+        -18,
+        770
+      ]
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "images/alternates/gallery/kelp-piranha-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3b0ee4f0ee8802f587e47bb5e628fd0d954c7cf54a5c800f882bed2e0a230ea6",
+      "habitat": "kelpForest",
+      "coordinates": [
+        110,
+        -18,
+        770
+      ]
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/alternates/gallery/goblin-shark-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fbe3196d8367ba6d24e91159274879abe5eca6abb4ea681664553face9fdf499",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1045,
+        -165,
+        -495
+      ]
+    },
+    {
+      "title": "Duskmaw",
+      "path": "images/alternates/gallery/duskmaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3b62a7db524791bebd0e022ffc49e0842bdcd1cbef30d86155a638a42ea67735",
+      "habitat": "kooshZone",
+      "coordinates": [
+        896,
+        -89,
+        456
+      ]
+    },
+    {
+      "title": "Duskmaw",
+      "path": "images/alternates/gallery/duskmaw-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1252b35f9b4ababf54dbab3f3eb8d4abe3501d3bf5c2a82e7b05ef86fb93b16d",
+      "habitat": "kooshZone",
+      "coordinates": [
+        896,
+        -89,
+        456
+      ]
+    },
+    {
+      "title": "Glowjaw",
+      "path": "images/alternates/gallery/glowjaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fc1811fef5323e713ce0c14d0667a0e61081d75f1a83286baa45b81d4138b076",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1116,
+        -165,
+        -458
+      ]
+    },
+    {
+      "title": "Glowjaw",
+      "path": "images/alternates/gallery/glowjaw-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a121bb6f79492afe5d54b8e0f93d5ccaae5ae1e46daaa80251349b08deb7da15",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1116,
+        -165,
+        -458
+      ]
+    },
+    {
+      "title": "Tortilla Turtle",
+      "path": "images/alternates/gallery/tortilla-turtle-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "eb6b888a56bbae14d8c0c04b433a95c8bd9369fd203ace23d933330a7b053aab",
+      "habitat": "island",
+      "coordinates": [
+        -793,
+        70.03,
+        -1067
+      ]
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/retakes/megalodon-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9f78e244e4bcd48c9d6bf273ccd17a0691b0afd165d85cab04c353965ad36092",
+      "habitat": "dunes",
+      "coordinates": [
+        -1020,
+        -115,
+        1240
+      ]
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/retakes/megalodon-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4b8b971e4cfbb306156f150e65c5431e3e02a27c723e3491499ac6f98106975e",
+      "habitat": "dunes",
+      "coordinates": [
+        -1020,
+        -115,
+        1240
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/retakes/hammerhead-shark-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0546179458ba9aa08aaecfc4b1e0f1e65afd2ff70ee7ff3df276e96c009cb1a9",
+      "habitat": "mountains",
+      "coordinates": [
+        1540,
+        -135,
+        1595
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/retakes/hammerhead-shark-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3b66f6bb3cd00c3f0772be0bd4137b6a4d4365bcebbd877a8b07e65e23c4cb18",
+      "habitat": "mountains",
+      "coordinates": [
+        1540,
+        -135,
+        1595
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/retakes/grand-reef-blue-whale-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "722d93a895180f27e0498ec7a68e632d5ef74c1585bf7a0a04e3dcd3eb05acc3",
+      "habitat": "grandReef",
+      "coordinates": [
+        -935,
+        -115,
+        -1100
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/retakes/grand-reef-blue-whale-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "441a27905f1e924f9616ab8b9ce72d80d8d595dc36e83aa4bd9dac58e3964530",
+      "habitat": "grandReef",
+      "coordinates": [
+        -935,
+        -115,
+        -1100
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/retakes/grand-reef-blue-whale-calf-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "329c29616402544135dfae44d215ee43b1f4152ca69924628b7ae3dcf6db15c4",
+      "habitat": "grandReef",
+      "coordinates": [
+        -495,
+        -115,
+        -1485
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/retakes/grand-reef-blue-whale-calf-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "197a46c2e48d920fcc29b617665707512dceb2bbd4d8a2faa711ee5f529daccf",
+      "habitat": "grandReef",
+      "coordinates": [
+        -495,
+        -115,
+        -1485
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/retakes/walrus-seal-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b680139c51af7cee2d28cee34cfabf43539164c96b8503d65cade41d5a3957d5",
+      "habitat": "mountains",
+      "coordinates": [
+        660,
+        -135,
+        1210
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/retakes/walrus-seal-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c5c44c99a1a456e3bcda9be6746be19de06aadf5c85a3340a8a13a5c3abab55a",
+      "habitat": "mountains",
+      "coordinates": [
+        660,
+        -135,
+        1210
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/retakes/acid-worm-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c13cf047ecaa08a115cb0e19dcc276c5905ceadad0428ca0df7026e8a74f5a0a",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/retakes/acid-worm-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "83bd3c258e946be9ccdfae04978b0e838b57ff42ae4114204f9dd2dd9b6bb3fa",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/retakes/acid-worm-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "436df88ebdb5d1de4496f3a4e56b103dcdcaba96e21ed9830055f2e159873324",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Spider Crab",
+      "path": "images/alternates/retakes/spider-crab-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "dd22dd1977cabe45e62d4c6d07d3739cdc50ae2a180450e9c923a99bf8ce48d8",
+      "habitat": "floorDunes",
+      "coordinates": [
+        -1314,
+        -285.8,
+        586
+      ]
+    },
+    {
+      "title": "Spider Crab",
+      "path": "images/alternates/retakes/spider-crab-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a302a6358408430c514c1fc611e66402fc471f8d2b61481e61fe4c886a9a4564",
+      "habitat": "floorDunes",
+      "coordinates": [
+        -1314,
+        -285.8,
+        586
+      ]
+    },
+    {
+      "title": "Acid Spider",
+      "path": "images/alternates/retakes/acid-spider-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ce9f9f8dfd836c0fdd7e6fb4ca0ec686ae497df88fa24f4b8cd1552f52a4c035",
+      "habitat": "island",
+      "coordinates": [
+        375,
+        55.02,
+        1059
+      ]
+    },
+    {
+      "title": "Acid Spider",
+      "path": "images/alternates/retakes/acid-spider-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b409498458e7af7b5d1743b3a5c101e89d10071cb08b9c174bae6ac0cd887a21",
+      "habitat": "island",
+      "coordinates": [
+        375,
+        55.02,
+        1059
+      ]
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "images/alternates/retakes/kelp-piranha-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "80678eab44a4022f0e32f232428a9fafa3dfaf60f5f7764ae039aa3b3405d706",
+      "habitat": "kelpForest",
+      "coordinates": [
+        0,
+        -18,
+        -440
+      ]
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "images/alternates/retakes/kelp-piranha-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8ccd72df3db3a26dfd48e73824d90bb1857c09188f5b7032f0eed2d19d50e200",
+      "habitat": "kelpForest",
+      "coordinates": [
+        0,
+        -18,
+        -440
+      ]
+    },
+    {
+      "title": "Duskmaw",
+      "path": "images/alternates/retakes/duskmaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a0f19f003c92d020dfa457c2ee9c540b4b8c0395ad29e362e8e9864a5284d4b8",
+      "habitat": "kooshZone",
+      "coordinates": [
+        1172,
+        -89,
+        866
+      ]
+    },
+    {
+      "title": "Duskmaw",
+      "path": "images/alternates/retakes/duskmaw-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a7eddf42a12d3570458115946612c1554c20b38b75385f44a29a5b611d63b38f",
+      "habitat": "kooshZone",
+      "coordinates": [
+        1172,
+        -89,
+        866
+      ]
+    },
+    {
+      "title": "Glowjaw",
+      "path": "images/alternates/retakes/glowjaw-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "eada1d2281f09212cb3f372ec966ddb4235aa7d823df3de12eff44954c562d16",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -950,
+        -165,
+        -622
+      ]
+    },
+    {
+      "title": "Glowjaw",
+      "path": "images/alternates/retakes/glowjaw-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b26c29910e9daa640eac567fb9b4131a72c2f6c6c9cc2be1c6d6a418e3dbe6d1",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -950,
+        -165,
+        -622
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-2-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6d003771961f9377f0a9676e09f58118b99a43b0b1957e4260fb0b981057b3b2",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-2-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9c6eee95ba149b414db879996b4d5408b2bc912221008a82e2557ec288c496cf",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-2-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b0ce7397f977e3d676e83a69b08e74a16523bfab1b96df50b7538d8681abbb39",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -337,
+        -332.23,
+        -923
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-3-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4dcd2c3ccb6ebf2953a1ded904f148fe63a6003b32ad15bbde2a29d4963743af",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -650,
+        -345.63,
+        -1412
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-3-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f8efae83d34abac8f60ca9d8f4440fe7a12e484dbc85146e1eab568733d0b2d6",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -650,
+        -345.63,
+        -1412
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-1-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6631fe1b5996b161dd07d6f7818ab9afe22156c22d783a570a4181929d8408ac",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-1-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "568fd8f7c0efb4f659fa0f8371b666e6715bc3b6b464c43abaf7246a0bd4e640",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/acid-worm-sites/acid-worm-1-3.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6c1195f9f567296ff1752f379646a19a33575669ccc400139444ba5b54a92458",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/field/grand-reef-blue-whale-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a06fd04708623ab2612ed974c43b4a6aadd97cb17b529890a12a5bf31e15a994",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1265,
+        -115,
+        -990
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "images/alternates/field/grand-reef-blue-whale-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e561c7ca61780f295f9383e2ba3d8d7d1f0f3790c14019fd2eca440cdf171730",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1265,
+        -115,
+        -990
+      ]
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/field/megalodon-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c763f8bd9765bfbcccbd6b82eedd5379f94e5942f30627c904d93fa6f19fe6f6",
+      "habitat": "dunes",
+      "coordinates": [
+        -1060,
+        -90,
+        200
+      ]
+    },
+    {
+      "title": "Megalodon",
+      "path": "images/alternates/field/megalodon-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c02b7bec96706956d119aff598faa602e1e2523389a64475c029dc881be49ac6",
+      "habitat": "dunes",
+      "coordinates": [
+        -1060,
+        -90,
+        200
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/field/grand-reef-blue-whale-calf-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1990c5f293def8ad284958926e27f7c8290fd2f10638ca4adc67e7018d673bac",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1430,
+        -115,
+        -1265
+      ]
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "images/alternates/field/grand-reef-blue-whale-calf-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "32a19d9d0252a3468a3419847edef607b8f9724ebf95a7b7ff125b7f90ce4aeb",
+      "habitat": "grandReef",
+      "coordinates": [
+        -1430,
+        -115,
+        -1265
+      ]
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/alternates/field/goblin-shark-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "576fb8257d98526f564431911adc2978fd0bb25f165c835f75d4b87edc7272ea",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1045,
+        -165,
+        -495
+      ]
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "images/alternates/field/goblin-shark-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7045e1f73d947b915cc175cf5cf5ad528be723519acad5a6f50b3090cb71aa6f",
+      "habitat": "bloodKelp",
+      "coordinates": [
+        -1045,
+        -165,
+        -495
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/field/acid-worm-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f393e3ba431ef9c8ac4775749c438cb271a22fd843ed2d4581fea5f714a1fcc8",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Acid Worm",
+      "path": "images/alternates/field/acid-worm-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9964948ee83b91012dc9c2ab721b08553c86653453bcae5f6333a82acedc40db",
+      "habitat": "floorGrandReef",
+      "coordinates": [
+        -1070,
+        -269.61,
+        -1200
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/field/hammerhead-shark-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3365f46912f86185a2ebcdbba73f7ec3bb5cefcdfb14e35f6e8b8d633adeb25a",
+      "habitat": "mountains",
+      "coordinates": [
+        330,
+        -135,
+        770
+      ]
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "images/alternates/field/hammerhead-shark-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2a60a786636b3ad9a3903b45b335de79f74e70cd855bd964baf65d67c0773756",
+      "habitat": "mountains",
+      "coordinates": [
+        330,
+        -135,
+        770
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/field/walrus-seal-1.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "edb4596b8e8dc31e7ad9f2c592b6ad9df8cd81675b8ec9eb38c2b0e445899b38",
+      "habitat": "mountains",
+      "coordinates": [
+        1155,
+        -135,
+        935
+      ]
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "images/alternates/field/walrus-seal-2.jpg",
+      "group": "Alternate",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8d333f91e22542024534d59c040df1efed268f5524f55d6c24e9d5d7d282e812",
+      "habitat": "mountains",
+      "coordinates": [
+        1155,
+        -135,
+        935
+      ]
+    },
+    {
+      "title": "Acid Spider",
+      "path": "pda-entries/acid-spider/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aec40d8998a709bca3d332641143856e30f9010a6accea7b63a2eb79a49dc95a",
+      "page": 2
+    },
+    {
+      "title": "Acid Spider",
+      "path": "pda-entries/acid-spider/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aa4b0cf8ad5833a415bd5ad392c2ebd95a28524f57d7fb70265d0f6e93f7e2be",
+      "page": 1
+    },
+    {
+      "title": "Acid Worm",
+      "path": "pda-entries/acid-worm/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ee2182d35458d50ac464c0661abc6047afce0acecef1c3d6149d0c18d85be8db",
+      "page": 2
+    },
+    {
+      "title": "Acid Worm",
+      "path": "pda-entries/acid-worm/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "df4c8916bbe2723405623394d92d99da3fdb2a8f22aa5a7178a56ded368f52a6",
+      "page": 1
+    },
+    {
+      "title": "Alligator Turtle",
+      "path": "pda-entries/alligator-turtle/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aa605584df1794cfd1d815669efad61a98be71691016e787ccb3b42b750a8c19",
+      "page": 2
+    },
+    {
+      "title": "Alligator Turtle",
+      "path": "pda-entries/alligator-turtle/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7d336ed542b4ce6e47b2286e13dcce91d7715565fe45f5efadac9b7da61c0fe6",
+      "page": 1
+    },
+    {
+      "title": "Bloodkelp Lanternjaw",
+      "path": "pda-entries/bloodkelp-lanternjaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "18c1d7b5be92cf4d7b1e079a890197a9bdd1b1b40800290c6dae2962ce1e44ee",
+      "page": 2
+    },
+    {
+      "title": "Bloodkelp Lanternjaw",
+      "path": "pda-entries/bloodkelp-lanternjaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "77d1722e74c96079753ebc5098fcb5bf81f9f6066b5e8c79a0d9a83ac4fee271",
+      "page": 1
+    },
+    {
+      "title": "Bloodkelp Lurker",
+      "path": "pda-entries/bloodkelp-lurker/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "626d87dc1894a86bdd91f3989a4f94f836f24ee29aacfb146af33bf5cbf067ae",
+      "page": 2
+    },
+    {
+      "title": "Bloodkelp Lurker",
+      "path": "pda-entries/bloodkelp-lurker/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d24902ce92bbaa6fd2a54e416c2b61d65fae53d96396e16b158fc4546b7e85f8",
+      "page": 1
+    },
+    {
+      "title": "Bulb Moray",
+      "path": "pda-entries/bulb-moray/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6503fc7a5ba543dac1af24f7b7538246d98f5c8563b22507f059665eace57ad2",
+      "page": 2
+    },
+    {
+      "title": "Bulb Moray",
+      "path": "pda-entries/bulb-moray/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a76cd0c5fd636e81d3c79b5e0dc1c56bd419eeaab2a137fb9ab5bdc45b4ca39d",
+      "page": 1
+    },
+    {
+      "title": "Caridean Shrimp",
+      "path": "pda-entries/caridean-shrimp/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "190c9293eef222a34d8cc81ad33041611c326683a0bde324179db739415f477a",
+      "page": 2
+    },
+    {
+      "title": "Caridean Shrimp",
+      "path": "pda-entries/caridean-shrimp/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3387c4e3514700389215dd58f99d37daceb2e8f94f0b1b793a2bdfe9b021b0c3",
+      "page": 1
+    },
+    {
+      "title": "Chambered Nautilus",
+      "path": "pda-entries/chambered-nautilus/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ce371b74b3099e3a9f3f18da2efeb4556c471e452726eade08acc2b3363c9c9c",
+      "page": 2
+    },
+    {
+      "title": "Chambered Nautilus",
+      "path": "pda-entries/chambered-nautilus/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "699db18d86de6087a8bcd549e180cfb9347e39a557aae9d5b602d7219b3d4208",
+      "page": 1
+    },
+    {
+      "title": "Coconut Crab",
+      "path": "pda-entries/coconut-crab/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e1e237e03d456230deba7a9aa6b92747d5deef343a8441565d11ddcd17c6ab7d",
+      "page": 2
+    },
+    {
+      "title": "Coconut Crab",
+      "path": "pda-entries/coconut-crab/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f5f13484256918aafc6b616867cd6993cf583bbbe9c58a92e77c0feba6c51f32",
+      "page": 1
+    },
+    {
+      "title": "Curse Lanternjaw",
+      "path": "pda-entries/curse-lanternjaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2eaa4d3af3b5142af734e62b476d699eb62c091d7e46a14e3c09c1aa828e81ee",
+      "page": 2
+    },
+    {
+      "title": "Curse Lanternjaw",
+      "path": "pda-entries/curse-lanternjaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "064c97212d32b2dd7212aa5c23294dd9fa86bf7cae8643491b97303b1ea3da6d",
+      "page": 1
+    },
+    {
+      "title": "Dolphin",
+      "path": "pda-entries/dolphin/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e81182bb98e6e8413d5232ca1355a18d0514e19cbe8f3d7eba0d00c1f307d2e0",
+      "page": 2
+    },
+    {
+      "title": "Dolphin",
+      "path": "pda-entries/dolphin/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8166b27d2a0e39683d31081d14425cce6b920fdd235d50440d504d4ed7364c67",
+      "page": 1
+    },
+    {
+      "title": "Duskmaw",
+      "path": "pda-entries/duskmaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f90809b9a0bf539f4063402f519f9dbedef517b4e37ca887c755b47e57bcc1df",
+      "page": 2
+    },
+    {
+      "title": "Duskmaw",
+      "path": "pda-entries/duskmaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d85f80533b87c1ab0f459244ba2b3675ddc3e7399af73b06f8fad502ae4a1811",
+      "page": 1
+    },
+    {
+      "title": "Ghost Shark",
+      "path": "pda-entries/ghost-shark/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "503341b21bb3e1f7762a6914764256857f4c29afe924910abf7f3f86fad149c9",
+      "page": 2
+    },
+    {
+      "title": "Ghost Shark",
+      "path": "pda-entries/ghost-shark/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6709685139df90d846ff3e00a04832a514d6a145a6dd643a9c375f8aa8ea0f55",
+      "page": 1
+    },
+    {
+      "title": "Glowjaw",
+      "path": "pda-entries/glowjaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2840d3a90b5bcce1c3d2c7c15aee0a8113124fd3450f48c43b69fec509093021",
+      "page": 2
+    },
+    {
+      "title": "Glowjaw",
+      "path": "pda-entries/glowjaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e38d85c793989cf8d6b2c5b9fa45409875d3a4343f7af4d28f1fa5083d071cbd",
+      "page": 1
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "pda-entries/goblin-shark/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "13fba4abd7131e842a24df62691bf1e10c1e04c430b6b352c405f1b0bc53f888",
+      "page": 2
+    },
+    {
+      "title": "Goblin Shark",
+      "path": "pda-entries/goblin-shark/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "21e6bba2b0e7dcc67933fab180b692a0ac2273e35c9d161b7e6b31a67a527721",
+      "page": 1
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "pda-entries/grand-reef-blue-whale/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c83617d288e19b47025e53eeae62d9bcf6a5c644b811b268be41ef98b5cd5b58",
+      "page": 2
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "pda-entries/grand-reef-blue-whale-calf/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "040ef1a728b9644a493b050cc1814c9badd29e7a67cc5b82e2082eb036c8d7bb",
+      "page": 2
+    },
+    {
+      "title": "Grand Reef Blue Whale Calf",
+      "path": "pda-entries/grand-reef-blue-whale-calf/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2fed9508ec75cdf91e1d972cf47538b79fa43c2d31ad143d0776f3fd6aa25ed7",
+      "page": 1
+    },
+    {
+      "title": "Grand Reef Blue Whale",
+      "path": "pda-entries/grand-reef-blue-whale/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "eb2f5c7f52a3ea7ba4d7a66c84bafc466d617a8bc55532a133aca476ef0d0053",
+      "page": 1
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "pda-entries/hammerhead-shark/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0e355edfb86c4770ade2ed6bd3c61781c427b0c42cb3f67bee8c63d092d32a0c",
+      "page": 2
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "pda-entries/hammerhead-shark/3.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6668fd458f56b3c553a4d46a3a23a0b57758e4e683667ba4d0368dfbfc4b732a",
+      "page": 3
+    },
+    {
+      "title": "Hammerhead Shark",
+      "path": "pda-entries/hammerhead-shark/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d46390020aec67a672341f9920b64e60877d5ac4dd609464a417bf764efcad87",
+      "page": 1
+    },
+    {
+      "title": "Horseshoe Crab",
+      "path": "pda-entries/horseshoe-crab/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2fd079a4695858b290432ba2208726bfbffe3b0f6f4ea688aa632ebf4c8f11b6",
+      "page": 2
+    },
+    {
+      "title": "Horseshoe Crab",
+      "path": "pda-entries/horseshoe-crab/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d927168cde6c91f6fc0d8c0f01a6518953906fda6d68fe9502a03158e8544ef4",
+      "page": 1
+    },
+    {
+      "title": "Isle Remora",
+      "path": "pda-entries/isle-remora/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8e18bdf34bb6a2b63821ae08caa6b4e8c2dd869281ff867c4711e5a18e7111ff",
+      "page": 2
+    },
+    {
+      "title": "Isle Remora",
+      "path": "pda-entries/isle-remora/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4d10a6420e6c04d413ee05e67418cddd80a1320886d68563f498b25746ff2856",
+      "page": 1
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "pda-entries/kelp-piranha/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ec7b00398293ecb858a405629498f38bbfea2aa0c94e2815945b1233f4f8fe56",
+      "page": 2
+    },
+    {
+      "title": "Kelp Piranha",
+      "path": "pda-entries/kelp-piranha/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b90aace599b08828a545acdd35709af997fe553696421d582444d22f4a86a7cb",
+      "page": 1
+    },
+    {
+      "title": "Kelpfin",
+      "path": "pda-entries/kelpfin/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3314ddde3d0ceab2e8ad32db06591b95bb3f70119d6ee1241bee9c186f04cbb",
+      "page": 2
+    },
+    {
+      "title": "Kelpfin",
+      "path": "pda-entries/kelpfin/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f9e736fe7f330416c9fb1c1f661b50d6ecd74d6f6b70a21841634ae02c331355",
+      "page": 1
+    },
+    {
+      "title": "Mantis Shrimp",
+      "path": "pda-entries/mantis-shrimp/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c3e6081201addb8e1565cf70d14939db05f888ca883e22e47875000dfd5ceba7",
+      "page": 2
+    },
+    {
+      "title": "Mantis Shrimp",
+      "path": "pda-entries/mantis-shrimp/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "01ccb428a6a2d4ae7e1d60a7794268fc8b52ad8f8992854658d274a1b0f765eb",
+      "page": 1
+    },
+    {
+      "title": "Meadowdart",
+      "path": "pda-entries/meadowdart/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4888a35518eb448c1e82684cb7f0f5a096da4fab5b7ccf28bcd72cccebff4019",
+      "page": 2
+    },
+    {
+      "title": "Meadowdart",
+      "path": "pda-entries/meadowdart/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "dd7591f46ba90d70ac75f35230334ff13fd0f265d02c9a1e9a86f18fdf0353a8",
+      "page": 1
+    },
+    {
+      "title": "Megalodon",
+      "path": "pda-entries/megalodon/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bcc74df7d0b055cf1f639fc93f01995ebfb927275340906ebc68cb5c3dcc0bf2",
+      "page": 2
+    },
+    {
+      "title": "Megalodon",
+      "path": "pda-entries/megalodon/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a2977d7f0ca6d145e5ad787649235bb25fd82faab5b4d48393e47ce2ff777fff",
+      "page": 1
+    },
+    {
+      "title": "Mushroom Moray",
+      "path": "pda-entries/mushroom-moray/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5b5025f94367eb1c3dbb923f50786f59357784354325da8d65eee91153fec989",
+      "page": 2
+    },
+    {
+      "title": "Mushroom Moray",
+      "path": "pda-entries/mushroom-moray/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "de495d2dbd91779618935863771368dbd59cfbc793ba374336ec749493c93ac6",
+      "page": 1
+    },
+    {
+      "title": "Plateau Sailfish",
+      "path": "pda-entries/plateau-sailfish/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e1c374a0aa4f2b372d5d5256e2e18de121fbf521f14aa1b0c83e543b7911189f",
+      "page": 2
+    },
+    {
+      "title": "Plateau Sailfish",
+      "path": "pda-entries/plateau-sailfish/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6f1d985a98a377a418eff0b2b480fc752d42329c3dee23fba133b1c25a4b9647",
+      "page": 1
+    },
+    {
+      "title": "Reef Lanternjaw",
+      "path": "pda-entries/reef-lanternjaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7113d47340d86674cd03052b6a5ab8ddb54c608e3e7bd2820049a1647931cff6",
+      "page": 2
+    },
+    {
+      "title": "Reef Lanternjaw",
+      "path": "pda-entries/reef-lanternjaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "44bdae4fb2facd25d99fe4c5ffc71084a6cde7ca95f808fcdc9f1e3fe56e3a66",
+      "page": 1
+    },
+    {
+      "title": "Reef Snapjaw",
+      "path": "pda-entries/reef-snapjaw/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8ab7a0908bafd19050ee6ef887dd3b87114db75e8f1187d13ef2195e14b8ef65",
+      "page": 2
+    },
+    {
+      "title": "Reef Snapjaw",
+      "path": "pda-entries/reef-snapjaw/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4ff6bc2a97277c19fcc40000b61625c9688b15fc724f12f5feef0508d5b25165",
+      "page": 1
+    },
+    {
+      "title": "Rift Prowler",
+      "path": "pda-entries/rift-prowler/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bfa5de6ce7bf4bca276afb37ecb38d419e2e3a3b0738b94dd68f9f81fffc0edf",
+      "page": 2
+    },
+    {
+      "title": "Rift Prowler",
+      "path": "pda-entries/rift-prowler/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ba6a98bead1b0d30cbd5f0c3f02a636b424be599cca2e6f46e311bfff4d253c8",
+      "page": 1
+    },
+    {
+      "title": "Royal Crab",
+      "path": "pda-entries/royal-crab/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "37089b132159d6a116054bc9cdab0466fd6f2a4114cb0a0ec7b425eca8439a32",
+      "page": 2
+    },
+    {
+      "title": "Royal Crab",
+      "path": "pda-entries/royal-crab/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "706c2da7aef1ea90f1bd20daa9d9a48dcbb3c222b1157d9a1603ed56cbb113ff",
+      "page": 1
+    },
+    {
+      "title": "Sea Turtle",
+      "path": "pda-entries/sea-turtle/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5e3f6d8ee51aae5fb3f61c34d56f6963c899c3c8c5fb8fd70c0942b3297c326e",
+      "page": 2
+    },
+    {
+      "title": "Sea Turtle",
+      "path": "pda-entries/sea-turtle/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f31c4bd9027d87290faad4791dca6f9c46fd0df49425b0f1497bb23b836470da",
+      "page": 1
+    },
+    {
+      "title": "Shallows Porcupinefish",
+      "path": "pda-entries/shallows-porcupinefish/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "00602f66a2078b5985f4ce04947a620641a5f1de8ad7599e277bb3246d81caa1",
+      "page": 2
+    },
+    {
+      "title": "Shallows Porcupinefish",
+      "path": "pda-entries/shallows-porcupinefish/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a6c7b190bdb1d15360c96fa51aa092214a8732f29d485b527995b38c4624c4d9",
+      "page": 1
+    },
+    {
+      "title": "Sparse Reef Ray",
+      "path": "pda-entries/sparse-reef-ray/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "582ba16c1bc8c95895486d87ec4fff6c114a31734b0840bc4d9de7d305eed518",
+      "page": 2
+    },
+    {
+      "title": "Sparse Reef Ray",
+      "path": "pda-entries/sparse-reef-ray/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "246bb297d64431ca55b93abb89c09fc1fa9d5703d9564c2c5d17015605b2edec",
+      "page": 1
+    },
+    {
+      "title": "Spider Crab",
+      "path": "pda-entries/spider-crab/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "619fb2812682de705591af25ec46f36f24503ac1d39e22b70d852f120566a52a",
+      "page": 2
+    },
+    {
+      "title": "Spider Crab",
+      "path": "pda-entries/spider-crab/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "39c9c906e8799b9749b8ff3447e897f10221ad8c1d460c9b582dd3d005c72a9d",
+      "page": 1
+    },
+    {
+      "title": "Sporefin",
+      "path": "pda-entries/sporefin/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2cd532721483a68c32493cf42d1b9b6e262283960b78d5e9bede2408557d86cb",
+      "page": 2
+    },
+    {
+      "title": "Sporefin",
+      "path": "pda-entries/sporefin/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6764f7b9c235a67fb5c1ff26c42b44ff7ae9b9851ee36cc8117cc9fd4a19922a",
+      "page": 1
+    },
+    {
+      "title": "Tortilla Turtle",
+      "path": "pda-entries/tortilla-turtle/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c27122fa065db3a4011f36a1b1d3cc2a69e453327d60253a40b169b346775956",
+      "page": 2
+    },
+    {
+      "title": "Tortilla Turtle",
+      "path": "pda-entries/tortilla-turtle/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "acc5b75f51a155896a81e61fe0ca4a6828901076b4cd5813ed38600802f61a71",
+      "page": 1
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "pda-entries/walrus-seal/2.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "826de600549841e65f21ff06c4d5a20c5a296e3e414119bf22b25f20fbbcfbb2",
+      "page": 2
+    },
+    {
+      "title": "Walrus Seal",
+      "path": "pda-entries/walrus-seal/1.jpg",
+      "group": "Databank",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aa628c5717ec17c2caf99013ddd1b92e5393d278b31942cf39db8a87fdaf8d1f",
+      "page": 1
+    }
+  ]
+}

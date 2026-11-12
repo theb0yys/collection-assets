@@ -1,0 +1,597 @@
+Mega Creature Pack PDA entries
+
+Text exported from the English Databank in Subnautica with Mega Creature Pack 0.10.6.
+
+Acid Spider
+
+Lifeforms / Fauna
+
+A large pursuit predator of Mountain Island, with long jointed legs and a rounded, bristled abdomen.
+
+1. Ground Movement:
+The legs spread widely around the body as it crosses the terrain. Once it begins an approach, the area occupied by the animal becomes much more apparent than it was at rest.
+
+2. Pursuit:
+Follows intruders over the ground within its territory and attacks on contact. Its willingness to close the distance makes narrow island paths particularly poor places to stop. Reaching dry land has removed one survival problem and introduced another.
+
+Assessment: Hostile land predator - Leave its territory
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Acid Worm
+
+Lifeforms / Fauna
+
+A large segmented predator which crawls across the Grand Reef seafloor. Its length is approximately 5.5m, much of which can be difficult to separate from the surrounding rock and vegetation.
+
+1. Body Segments:
+The dark body joins a broad, heavily textured rear section to a more articulated head. Individual sections can be mistaken for separate features of the seabed until their movement reveals one continuous animal.
+
+2. Feeding Approach:
+Remains within a small area and closes on nearby prey along the bottom. A diver descending to examine the terrain can enter its reach before recognizing the full outline.
+
+Assessment: Ambush hazard - Maintain clearance above occupied ground
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Alligator Turtle
+
+Lifeforms / Fauna
+
+An aquatic ambush predator with a low brown shell, encountered in the Sparse Reef.
+
+1. Head and Shell:
+A thick neck carries the broad jaws beyond the front edge of the shell. Against rock, the shell can be difficult to distinguish from the surrounding surface. Identifying the head is considerably more useful than estimating the size of the apparent stone.
+
+2. Ambush:
+Waits within a small area and rushes passing prey at close range. The turtle can swim; remaining above the seabed does not put a nearby diver beyond its approach.
+
+Assessment: Ambush predator - Avoid close approach
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Bloodkelp Lanternjaw
+
+Lifeforms / Fauna
+
+A small ambush predator bearing a cluster of green luminous appendages. Found in the Blood Kelp Zone.
+
+1. Light Distribution:
+Bright tips extend above, ahead of and below the head. Their spacing makes the animal appear more elaborate than its compact body would suggest. The points belong to a single fish, with a toothed mouth near the center of the arrangement.
+
+2. Behavior:
+Stays within a restricted hunting area and makes short approaches to nearby prey. The lights provide a useful means of locating it before entering biting range.
+
+Assessment: Luminous ambush predator - keep clear of the entire cluster
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Bloodkelp Lurker
+
+Lifeforms / Fauna
+
+A short-bodied ambush predator of the Blood Kelp Zone, with a pale eye, lavender body and upright, warm-colored spines.
+
+1. Ambush Behavior:
+Remains close to a small hunting area and rushes prey that comes within reach. Its conspicuous outline can make it easy to locate before it reacts to the observer. A distant specimen's apparent indifference is a consequence of separation; closing that distance changes the encounter.
+
+Assessment: Close-range threat
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Bulb Moray
+
+Lifeforms / Fauna
+
+An elongated ambush predator of the Bulb Zone, approximately 2.4m long.
+
+1. Body Form:
+Dark spots interrupt the pale body beneath a row of short dorsal projections. The narrow profile can be partly concealed by bulb plants, leaving the head or tail visible while much of the animal remains hidden.
+
+2. Hunting Behavior:
+Stays close to its chosen area and makes short attacks on nearby prey. A gap between plants can provide a clear route for the strike.
+
+Assessment: Ambush hazard among bulb plants
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Caridean Shrimp
+
+Lifeforms / Fauna
+
+A small swimming crustacean of the Safe Shallows, easily overlooked against coral until it moves.
+
+1. Body Structure:
+Fine legs hang beneath the front of the body, behind which the segmented abdomen bends sharply. At approximately 0.45m, it offers little silhouette to distinguish from its surroundings. It withdraws when a diver or nearby hunter approaches.
+
+Assessment: Harmless
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Chambered Nautilus
+
+Lifeforms / Fauna
+
+A slow-moving, shelled animal of the Sparse Reef.
+
+1. Body Arrangement:
+Most of the animal's outline belongs to a tightly coiled shell, marked with branching red bands. The exposed head occupies its opening, with an eye beside a cluster of slender tentacles. The tentacles remain exposed while the bulk of the body is enclosed.
+
+The nautilus tolerates a nearby observer without abandoning its unhurried movement. A close inspection can be completed without a chase.
+
+Assessment: Harmless - Suitable for observation
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Coconut Crab
+
+Lifeforms / Fauna
+
+A skittish terrestrial crab found on the Floating Island.
+
+1. Walking Limbs:
+Pale, jointed legs extend around the rust-colored body and carry it across uneven ground. Against the island's vegetation, the red shell is often easier to follow than the moving feet.
+
+2. Evasive Behavior:
+The crab retreats when approached closely on land. Its claws are conspicuous, but its usual response is to put more ground between itself and the disturbance. Following it chiefly produces a longer view of the retreat.
+
+Assessment: Harmless - Allow space for observation
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Curse Lanternjaw
+
+Lifeforms / Fauna
+
+The largest of the three identified lanternjaws, reaching approximately 3.5m. Inhabits the Blood Kelp Zone.
+
+1. Head:
+A broad, angular head surrounds a deep gape lined with long teeth. The arched luminous stalk seems modest beside the amount of mouth beneath it.
+
+2. Attack:
+Remains close to its hunting area before rushing nearby prey. It delivers the most damaging bite of the three lanternjaws. The light identifies the animal at a distance; the jaw explains why that distance is useful.
+
+Assessment: Dangerous ambush predator
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Dolphin
+
+Lifeforms / Fauna
+
+A curious, nonaggressive swimmer encountered between the Underwater Islands. Approximately 3m long, with a narrow snout, swept fins and a tapering tail.
+
+1. Approach Behavior:
+The dolphin may turn toward a visible diver and close the distance, stopping several meters away. Remaining still can therefore provide a closer encounter than pursuing it. The observer is not always the only participant conducting an inspection.
+
+Assessment: Harmless - Curious
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Duskmaw
+
+Lifeforms / Fauna
+
+A crested predator which pursues smaller animals through the Bulb Zone.
+
+1. Flank and Fins:
+A tall, dark dorsal fin rises over a pale reflective flank. When the animal turns, the broad side can catch the light while the crest remains dark, briefly making the same fish appear very different in size and color.
+
+2. Pursuit:
+Follows prey through the gaps around bulb plants and can turn its attention to a nearby diver. It can follow a retreating target through its home waters, making the open gaps between plants part of the chase.
+
+Assessment: Hostile - Keep a route out of its hunting grounds
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Ghost Shark
+
+Lifeforms / Fauna
+
+A pale, 2.5m pursuit predator found in the Grand Reef.
+
+1. Fins and Head:
+Broad, rounded fins form a fringe along the lavender body. A conspicuous light-colored eye sits above a mouth with projecting teeth.
+
+2. Pursuit:
+Follows smaller prey through its local territory and can turn the same attention toward a diver. The faint outline can be difficult to follow against open water, even while the animal is following something quite deliberately.
+
+Assessment: Hostile pursuit predator
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Glowjaw
+
+Lifeforms / Fauna
+
+A luminous ambush predator of the Blood Kelp Zone, approximately 3.5m long.
+
+1. Light Pattern:
+Gold-amber markings follow the ridged body and extend along the fins. The lights belong to one animal: their movement together reveals the full outline even when the darker surfaces are difficult to distinguish.
+
+2. Ambush Behavior:
+Remains close to a chosen area, then makes a short approach towards nearby prey. The opportunity to examine a nearly stationary specimen ends abruptly when the observer enters its attack range.
+
+Assessment: Observe from a distance - Hostile at close range
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Goblin Shark
+
+Lifeforms / Fauna
+
+A pale pursuit predator of the Blood Kelp Zone, approximately 5.8m long.
+
+1. Snout:
+An elongated projection extends well beyond the mouth. This gives the head a narrow leading point, with the jaws set farther back beneath it. The snout's function remains unresolved.
+
+2. Hunting Range:
+The shark follows smaller prey through open water within its territory. Moving a short distance beyond the point of first contact may therefore leave the pursuit intact. Solid terrain between the animal and its target can interrupt a clear approach.
+
+Assessment: Dangerous pursuit predator
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Grand Reef Blue Whale
+
+Lifeforms / Fauna / Leviathans
+
+A calm leviathan approximately 20m in length, encountered in the open waters of the Grand Reef.
+
+1. Body Profile:
+The broad head and deeply grooved underside occupy much of the forward body. Behind them, the blue back tapers into a long tail. Its pale lower surface provides a clear boundary to an otherwise immense blue silhouette.
+
+2. Behavior:
+The whale moves through its home waters without pursuing an approaching diver. Its size can dominate an encounter while its attention remains elsewhere. An elevated pulse is, in this case, a poor measure of the danger.
+
+Assessment: Nonaggressive leviathan
+
+A Leviathan Cartilage sample can be recovered when a specimen dies nearby. Combine one sample with a Titanium Ingot to fabricate a Plasteel Ingot.
+
+Grand Reef Blue Whale Calf
+
+Lifeforms / Fauna / Leviathans
+
+The juvenile form of the Grand Reef blue whale, approximately 8.5m long.
+
+1. Identification:
+The blue back, pale grooved underside and broad head resemble those of the adult, within a shorter overall profile. A juvenile designation is relative to the species. It retains the adult's leviathan classification.
+
+2. Encounters:
+Calves can be encountered alone in Grand Reef water. They swim calmly and do not approach a diver as prey; an accompanying adult should not be assumed.
+
+Assessment: Juvenile leviathan - Nonaggressive
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Hammerhead Shark
+
+Lifeforms / Fauna
+
+A five-meter pursuit predator found in the Mountains. The wide, flattened head is its most conspicuous feature.
+
+1. Head Structure:
+The eyes occupy the lateral ends of the expanded head, with the toothed mouth set beneath it. A broad turn reveals how far the head extends beyond the body on either side.
+
+2. Predation:
+Actively follows smaller animals through its territory and will also pursue a diver. Smaller fish may flee at its approach, making their sudden departure a reason to inspect the surrounding water.
+
+3. Attack:
+Closes to bite, then briefly disengages. A pause after contact does not make the territory safe.
+
+Assessment: Dangerous pursuit predator - withdraw from its hunting area
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Horseshoe Crab
+
+Lifeforms / Fauna
+
+A broad-shelled animal which swims calmly above the Grassy Plateaus.
+
+1. Carapace:
+The domed front of the shell conceals most of the limbs beneath it. A long, straight tail spine extends behind the smaller rear section, giving the animal the outline of a shield with a handle. The apparent solidity is interrupted by the small legs moving below.
+
+It shows little interest in an approaching diver and continues its local swimming route.
+
+Assessment: Harmless
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Isle Remora
+
+Lifeforms / Fauna
+
+A slender schooling fish native to the Underwater Islands. Its silver body is less than a meter long.
+
+1. Cranial Plate:
+A flattened, ridged structure occupies much of the upper surface of the head. Its function remains undetermined. The rest of the body forms a narrow profile, with fins concentrated toward the rear.
+
+2. Schooling:
+Swims freely in small groups. A nearby hunter can scatter the school, after which separated individuals gather again. The fish is also wary of approaching divers, although it can be caught by hand.
+
+Assessment: Edible - suitable for water processing
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Manual collection possible. Scan data enables the Fabricator to cook the fish or process one whole specimen into Filtered Water.
+
+Kelp Piranha
+
+Lifeforms / Fauna
+
+A small predator which hunts in coordinated schools among the creepvines. Individual specimens measure approximately 0.75m, with a round body, red eyes and exposed teeth.
+
+1. Shared Pursuit:
+Members of a school concentrate on the same prey. Bite attempts are staggered, so the withdrawal of one fish may be followed by the approach of another. Tracking the nearest mouth is an incomplete assessment of the situation.
+
+2. Disruption:
+A larger predator can scatter the school and interrupt its hunt. Members also pause when prey is lost or killed before resuming their activity. Their coordination does not prevent them from becoming prey themselves.
+
+Assessment: Avoid hunting schools - Expect successive approaches
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Kelpfin
+
+Lifeforms / Fauna
+
+A rust-colored schooling fish found among creepvine. Its blunt head and pointed fins give it a formidable outline for an animal that can be carried in one hand.
+
+1. Fins:
+Broad paired fins and a jagged dorsal ridge break up the body's outline. Pale points extend beyond the darker fin surfaces, remaining distinct against its brown-red flanks.
+
+2. Behavior:
+Retreats from approaching divers and scatters with its school when threatened by a hunter. Separated fish can rejoin the group once the immediate danger has passed.
+
+Assessment: Edible - suitable for water processing
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Manual collection possible. Scan data enables the Fabricator to cook the fish or process one whole specimen into Filtered Water.
+
+Mantis Shrimp
+
+Lifeforms / Fauna
+
+A territorial crustacean encountered swimming among the bulb plants. Its body measures approximately 1.5m, with a considerable number of appendages competing for the remaining space.
+
+1. Forelimbs:
+Large folded limbs occupy the front of the body, below the prominent eyes. Their toothed inner edges are conspicuous even when folded. The smaller legs run in two rows beneath the segmented abdomen.
+
+2. Hunting Behavior:
+Closes on smaller animals within its local hunting grounds and attacks at close range. A diver entering the same area can provoke an approach.
+
+Assessment: Territorial - Keep clear of the forelimbs
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Meadowdart
+
+Lifeforms / Fauna
+
+A small schooling fish found over the Grassy Plateaus, with silver ridges above a copper-orange underside.
+
+1. Coloration:
+The dark back and warmer flanks present very different outlines as the animal turns. In a school, repeated flashes of copper and silver make the group considerably easier to locate than an isolated fish.
+
+2. Evasion:
+Individuals retreat from a nearby diver. A threatened school scatters and can gather again, so finding the group is simpler than keeping one member within reach.
+
+Assessment: Edible - Cooking recommended
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Manual collection possible. Scan data enables cooking in the Fabricator. Raw consumption provides limited nutrition and reduces hydration.
+
+Megalodon
+
+Lifeforms / Fauna / Leviathans
+
+A fifteen-meter predatory leviathan found in the Dunes. Pale, beadlike markings run along the flanks of its heavy blue-gray body.
+
+1. Dentition:
+Broad jaws carry prominent serrated teeth. The animal closes on its target before delivering a bite, then briefly breaks off the attack. This interval should be used to leave.
+
+2. Predation:
+Pursues smaller animals through a substantial territory, including predators that would themselves threaten a diver. A hammerhead is small enough to attract its attention. Occupying a respectable position in the food chain offers limited protection here.
+
+Assessment: Severe threat - avoid its hunting territory
+
+A nearby death can yield one Megalodon Tooth and one Leviathan Cartilage sample. Acquiring the tooth unlocks the Megalodon Tooth Knife blueprint. Fabrication requires one tooth, a Survival Knife and one Silicone Rubber. One cartilage sample and a Titanium Ingot can be processed into a Plasteel Ingot.
+
+Mushroom Moray
+
+Lifeforms / Fauna
+
+An elongated ambush predator found among the trunks of the Mushroom Forest.
+
+1. Body Profile:
+The broad, toothed head narrows into a smooth blue-gray body and a long, tapering tail. A partially concealed specimen may therefore appear much smaller than its full three-meter length.
+
+2. Hunting Behavior:
+Holds a small area and attacks passing prey in a short rush. Trunks and gaps can conceal part of the animal; a glimpse of the tail should not be treated as evidence that the head has already passed.
+
+Assessment: Avoid close passes through occupied gaps
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Plateau Sailfish
+
+Lifeforms / Fauna
+
+A fast, wary swimmer of the Grassy Plateaus, recognizable by its tall blue sail and extended bill.
+
+1. Profile:
+The sail rises above a narrow silver-blue body that tapers into a deeply forked tail. Much of the animal's height is fin, giving it a particularly striking outline when seen from the side.
+
+2. Evasion:
+Pulls away from nearby divers. Pursuing it generally produces an excellent view of the tail.
+
+Assessment: Harmless
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Reef Lanternjaw
+
+Lifeforms / Fauna
+
+A rounded, brown ambush predator found in the Grand Reef. A long stalk suspends a bright point ahead of the face.
+
+1. Jaw Structure:
+Long, curved teeth project around the open mouth. The lower jaw sits well beneath the eye, giving the head considerable depth despite the body's compact outline.
+
+2. Forward Appendage:
+The luminous tip is separated from the face by the arch of its stalk. Distance from the light can therefore be a misleading measure of distance from the teeth.
+
+Assessment: Close-range bite hazard - identify the body before approaching the light
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Reef Snapjaw
+
+Lifeforms / Fauna
+
+A small territorial hunter found in the Grand Reef. Its bronze flanks and rounded muzzle are comparatively plain among the region's more elaborate fauna.
+
+1. Local Hunting:
+The snapjaw keeps close to a small patch of reef, approaching prey and intruders to bite at short range. At 1.4m, it is easy to overlook while watching for larger animals. Its territory can occupy the part of the view receiving the least attention.
+
+Assessment: Localized bite hazard
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Rift Prowler
+
+Lifeforms / Fauna
+
+A compact territorial predator of the Sparse Reef, approximately one and a half meters long.
+
+1. Profile:
+Dark mottling extends from the flanks into a jagged dorsal ridge. The low head and subdued coloration make the fish less conspicuous than its close-range aggression might suggest.
+
+2. Territorial Behavior:
+Patrols a limited area and closes on nearby prey or intruders. Its repeated presence in the same patch of water can make a small predator easy to encounter more than once.
+
+Assessment: Territorial threat - give occupied reef water a wide berth
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Royal Crab
+
+Lifeforms / Fauna
+
+A large orange-red crab encountered on both the Floating Island and Mountain Island. It defends its local ground rather than yielding to an approaching survivor.
+
+1. Stance:
+Long walking legs hold the ridged shell high above the terrain. Prominent claws extend forward, making the front of the animal particularly easy to identify.
+
+2. Territorial Response:
+A close approach can cause the crab to advance and strike. On a slope or narrow path, this leaves little room for passing beside it. The smaller coconut crab's willingness to retreat should not be taken as representative of island crustaceans.
+
+Assessment: Territorial - Give occupied paths a wide berth
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Sea Turtle
+
+Lifeforms / Fauna
+
+A calm swimmer found among the creepvines. Its dark shell and broad flippers give it a rounded outline quite unlike the narrow fish moving through the same forest.
+
+1. Locomotion:
+The flippers extend well beyond the high shell. As the turtle passes between creepvine stems, these exposed limbs make its movement easier to follow than the dark body itself. It continues swimming when approached, with little apparent interest in the observer.
+
+Assessment: Harmless
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Shallows Porcupinefish
+
+Lifeforms / Fauna
+
+A rounded, spiny fish found in schools in the Safe Shallows.
+
+1. Spines:
+Slender points project around the body, particularly beneath the broad underside. The heavy face and small tail leave much of the fish's outline concentrated at the front.
+
+2. Escape Behavior:
+School members flee along different routes when threatened, separating the group into several moving targets. Individuals can gather again after the disturbance passes.
+
+Assessment: Harmless - Easily disturbed
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Sparse Reef Ray
+
+Lifeforms / Fauna
+
+A wary, flattened swimmer of the Sparse Reef, with broad fins forming a disc around the body.
+
+1. Profile:
+A broad shape seen from above becomes a narrow line near eye level. When the ray turns away from an approaching diver, this change in angle can make much of the animal appear to disappear. The thin trailing tail offers little help in locating it again.
+
+Assessment: Harmless
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Spider Crab
+
+Lifeforms / Fauna
+
+A territorial predator which walks the seafloor of the Dunes. Its angular legs give it an outline spanning approximately 3.5m.
+
+1. Leg Structure:
+Long, pointed limbs surround a much smaller central body. When the animal is stationary against broken ground, the legs can resemble separate projections from the rock. Movement makes their connection apparent.
+
+2. Territorial Behavior:
+Patrols a local patch of seabed and attacks at close range. A low-swimming diver can enter its reach while watching the larger predators overhead. The Dunes warrant attention in more than one direction.
+
+Assessment: Territorial seafloor hazard
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
+
+Sporefin
+
+Lifeforms / Fauna
+
+A blunt-faced schooling fish of the Mushroom Forest.
+
+1. Group Profile:
+Blue-gray bands cross the rounded body, with pale edges tracing the fins. Close together, the fish form a clustered outline against the layered mushroom caps. A nearby hunter breaks that outline into individuals fleeing along separate paths. Separated members can gather again around schoolmates.
+
+Assessment: Harmless schooling species
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Tortilla Turtle
+
+Lifeforms / Fauna
+
+A large, calm terrestrial turtle found on the Floating Island.
+
+1. Shell:
+Overlapping pointed plates cover the broad back. A long neck projects beyond the shell, with a tapered tail extending behind. The short legs carry this substantial outline across the island's slopes.
+
+2. Behavior:
+The turtle generally continues along its route when approached. Its pace offers ample time to examine the elaborate shell without forcing the animal into a chase. Urgency appears to be the observer's concern.
+
+Assessment: Harmless terrestrial fauna
+
+Fauna Tissue can be recovered when a specimen dies nearby. The Fabricator processes two samples into Fiber Mesh.
+
+Walrus Seal
+
+Lifeforms / Fauna
+
+A heavy-bodied territorial swimmer found in the Mountains.
+
+1. Tusks:
+Two pale tusks curve forward from the blunt muzzle. They remain easy to distinguish when the gray-brown body is difficult to resolve, providing an early indication of which end of the animal is approaching.
+
+2. Territorial Response:
+The walrus seal remains within a local patrol area and closes on intruders which enter it. Its broad body and rear flippers give it a very different outline from the sharks in these waters, but approaching the face is still inadvisable.
+
+Assessment: Territorial - Withdraw from its patrol area
+
+A Predator Fang can be recovered when a specimen dies nearby. Combine two fangs with one Glass to fabricate Enameled Glass.
