@@ -1,0 +1,156 @@
+{
+  "assets": [
+    {
+      "title": "Dawn of the Wasteland",
+      "path": "fallout-3/dawn-of-the-wasteland/title.png",
+      "sha256": "172fe346103e10021d9bd175d7e20330014a027c6dec35d2a5fb6185e552411a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Graphics & Specs",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/01-graphics-and-specs.png",
+      "sha256": "b3485a887a34dada0e09a055940da34a2b162b12c1b412b3ec02b119666d2adf",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Setup & Prerequisites",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/02-setup-and-prerequisites.png",
+      "sha256": "1e51ceb268e2dd3b0918cebb4150a18a03a812f06d9e8530a519398c9e44dbb5",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Collection Companion",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/03-collection-companion.png",
+      "sha256": "17cfd81d4b7a02ff7bee26116be1d4d54627e4f068be65dd707f101a63e464e3",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Manual Installation",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/04-manual-installation.png",
+      "sha256": "fac50306f79b3d2ee707b1dc08542f4c664a79b8b3738398ad665fc4ac294773",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "First Launch",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/05-first-launch.png",
+      "sha256": "8cc299b0a69fcb2f9ee5ed46d7c9666bead2a328b44bd9f233e20d398c1d2144",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Updates & Patch Notes",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/06-updates-and-patch-notes.png",
+      "sha256": "7e0c8e76528ae655f81d77edc4ffef4806afb9f595c29da2245157130519c353",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Controls & Hotkeys",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/07-controls-and-hotkeys.png",
+      "sha256": "7527c0335ebda5149da35b9fe90e720c0b9dbe23e0279d44f33aeb7227742347",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Quests & New Lands",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/08-quests-and-new-lands.png",
+      "sha256": "28da1bbd4339e97daa3bec5b675ecce447577bf361fcdd1832032cecf3e05be7",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "The Five DLCs",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/09-the-five-dlcs.png",
+      "sha256": "ec4d9cff60e5d6ef4e4e31a8f7e2e0b0dda18379b3b8cb3818d2346cc184be63",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Companions",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/10-companions.png",
+      "sha256": "d7b4589501c3ce0ad3e751011398c8c896bf1f2b6df2beb3d0ddcf86fadf112a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Settlements & Player Homes",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/11-settlements-and-player-homes.png",
+      "sha256": "437ec458dc422cd6a49ef4ff1eeaa7df3ce19f2353cd5bfa1808fc18d7db2840",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Combat & Character Builds",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/12-combat-and-character-builds.png",
+      "sha256": "c07a8570903c99371d41d9b8205d48dde52443ac755b49d3e40af6399678bf31",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Survival & Crafting",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/13-survival-and-crafting.png",
+      "sha256": "a745f3198d79b3521d4ef37bc7de66e0790a27307a81f8c7785ad1bd2a97931f",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Weapons & Armour",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/14-weapons-and-armour.png",
+      "sha256": "c598ebeb8f7bd8bf292348bea4e875dad5ecc494683d5cb5553465d462c08163",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Sound & Interface",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/15-sound-and-interface.png",
+      "sha256": "3c1ec1fbfc7b84faf59e6e7f7570580aeabebd7c6c700a9a3f101d9c5f40cd17",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Options & Compatibility",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/16-options-and-compatibility.png",
+      "sha256": "b5eff74a0b547900e2cf2da6079fd325ef19d90577ef64a3a7698ad93b5d54a9",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Troubleshooting & Support",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/17-troubleshooting-and-support.png",
+      "sha256": "f06afbac47133731e61d704042d5814343b513d0909a6cecdfa67eac993648d2",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Credits & Thanks",
+      "path": "fallout-3/dawn-of-the-wasteland/headers/18-credits-and-thanks.png",
+      "sha256": "8c92b6eb5782faa2046e1dd15c20376d4f6e6bb49aedd18dc86cd93f4724273a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    }
+  ]
+}
