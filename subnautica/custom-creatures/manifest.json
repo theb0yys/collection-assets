@@ -2434,6 +2434,24 @@
       "height": 1080,
       "sha256": "aa628c5717ec17c2caf99013ddd1b92e5393d278b31942cf39db8a87fdaf8d1f",
       "page": 1
+    },
+    {
+      "title": "Spawn settings",
+      "path": "images/settings/spawns.jpg",
+      "group": "Settings",
+      "version": "0.10.7",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a34df28291c95353a2d849ee047ec16624e87150ee343244bfab12bc99423664"
+    },
+    {
+      "title": "Behaviour, schools, and map settings",
+      "path": "images/settings/behaviour-and-schools.jpg",
+      "group": "Settings",
+      "version": "0.10.7",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "07bda40511414398bb892e5f6695148649b47e008579a5b603247dff139dee04"
     }
   ]
 }

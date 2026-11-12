@@ -6,6 +6,7 @@ Screenshots taken in the original Subnautica for the Mega Creature Pack Nexus pa
 - [Field photos](images/field/) show the largest creatures alongside the diver.
 - [Alternate captures](images/alternates/) include the other verified gallery angles and site retakes.
 - [Databank entries](pda-entries/) include each creature’s entry in scroll order. [Copy-ready text](pda-entries/entries.txt).
+- [Settings screenshots](images/settings/) show the 0.10.7 Mods menu.
 - [Image manifest](manifest.json) lists each capture’s path, size and SHA-256.
 
 | Creature | Portrait | Databank |
