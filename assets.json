@@ -151,6 +151,142 @@
       "width": 2172,
       "height": 724,
       "pngColorType": 6
+    },
+    {
+      "title": "Dawn Beneath",
+      "path": "subnautica/dawn-beneath/title.png",
+      "sha256": "29a5b625ac8cdd6dc72155d143e6b6e209afdeace8338ced1cad70722d14308c",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Graphics & Performance",
+      "path": "subnautica/dawn-beneath/headers/01-graphics-and-performance.png",
+      "sha256": "f6b86b2f07e5c6f0318e5f5dae87d3912ea89394e7477f6f169c1eb879ed75ab",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Setup & Requirements",
+      "path": "subnautica/dawn-beneath/headers/02-setup-and-requirements.png",
+      "sha256": "a965d6ba91bcb600d504264055fd9bf89d116af5e3ecda94e4ea794d6711efca",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Vortex Installation",
+      "path": "subnautica/dawn-beneath/headers/03-vortex-installation.png",
+      "sha256": "9fa95c3fca5850ea85d57e9977341bab04d04c87dbae5a328c776e244de571bb",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "First Dive",
+      "path": "subnautica/dawn-beneath/headers/04-first-dive.png",
+      "sha256": "278678950330bbae111befe4b93d1a32ecfa353d15534ca3ac003e5af6d8b4c4",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "PDA, Maps & Controls",
+      "path": "subnautica/dawn-beneath/headers/05-pda-maps-and-controls.png",
+      "sha256": "e17911ae69d61592b476a9806d18b59fab8f3fc811574401670e3e877895bc0b",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Survival & Crafting",
+      "path": "subnautica/dawn-beneath/headers/06-survival-and-crafting.png",
+      "sha256": "740724a273d0cee896515f6a231b19d1668ea109ac492e01ec112caa36af9133",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Vehicles & Equipment",
+      "path": "subnautica/dawn-beneath/headers/07-vehicles-and-equipment.png",
+      "sha256": "21c028c2d6c3b9684ea5369936443c6f42141ea099489cb2e03d0864f9777536",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Habitat Building",
+      "path": "subnautica/dawn-beneath/headers/08-habitat-building.png",
+      "sha256": "a6a0a65797155fa9e7bc74bf83025168fd724209dd45bc4ad9bbea8c1ccefa07",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Wildlife & Ecology",
+      "path": "subnautica/dawn-beneath/headers/09-wildlife-and-ecology.png",
+      "sha256": "b784e690c83f4fe5449763c8cd7c76b58288bc588459df136f23fa2e02e9510a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Biomes & Wrecks",
+      "path": "subnautica/dawn-beneath/headers/10-biomes-and-wrecks.png",
+      "sha256": "9a5c017ace8dce4a92319de271204827433240e7d0532db524d4990590ea9bed",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Story & Expeditions",
+      "path": "subnautica/dawn-beneath/headers/11-story-and-expeditions.png",
+      "sha256": "a843c479383a9358a7f8f5d058cda81008eadece942e5d865039cc096f94c5aa",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Sound & Atmosphere",
+      "path": "subnautica/dawn-beneath/headers/12-sound-and-atmosphere.png",
+      "sha256": "ebd45770f726dfd23503d72c05de974be2fd7e5c889a07ff671490e1271c08b8",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Options & Compatibility",
+      "path": "subnautica/dawn-beneath/headers/13-options-and-compatibility.png",
+      "sha256": "50e1f88163edb4ce9a8f674e4395021c5b6b33fbcc0ea96d6fa8f377501188da",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Updates & Patch Notes",
+      "path": "subnautica/dawn-beneath/headers/14-updates-and-patch-notes.png",
+      "sha256": "104056bcf86b30b11da97ee5685ad36979115463188b4d16f07b00c86126d903",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Troubleshooting & Support",
+      "path": "subnautica/dawn-beneath/headers/15-troubleshooting-and-support.png",
+      "sha256": "2b81fc7d6509a2ca1921752fd950ce687e3ee5b50c17302b2320e456dccbeea1",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Credits & Thanks",
+      "path": "subnautica/dawn-beneath/headers/16-credits-and-thanks.png",
+      "sha256": "4eb42af3ea1b3b9f399f23dd46aef3820b54184c08ace3f58f6c784fb41fde4e",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
     }
   ]
 }
