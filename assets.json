@@ -155,7 +155,7 @@
     {
       "title": "Dawn Beneath",
       "path": "subnautica/dawn-beneath/title.png",
-      "sha256": "29a5b625ac8cdd6dc72155d143e6b6e209afdeace8338ced1cad70722d14308c",
+      "sha256": "86fd914a0de45a96bec788a3916e7ca51d4b1145fb23b2a31aad0c300006e974",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -163,7 +163,7 @@
     {
       "title": "Graphics & Performance",
       "path": "subnautica/dawn-beneath/headers/01-graphics-and-performance.png",
-      "sha256": "f6b86b2f07e5c6f0318e5f5dae87d3912ea89394e7477f6f169c1eb879ed75ab",
+      "sha256": "efb334aacefac593231bf8284e0f3bba32967361caeef8d7c34104bb280fa144",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -171,7 +171,7 @@
     {
       "title": "Setup & Requirements",
       "path": "subnautica/dawn-beneath/headers/02-setup-and-requirements.png",
-      "sha256": "a965d6ba91bcb600d504264055fd9bf89d116af5e3ecda94e4ea794d6711efca",
+      "sha256": "39baff31015a1749eff3d0b484b5c6a9f507ebcad61780f76c747969db344420",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -179,7 +179,7 @@
     {
       "title": "Vortex Installation",
       "path": "subnautica/dawn-beneath/headers/03-vortex-installation.png",
-      "sha256": "9fa95c3fca5850ea85d57e9977341bab04d04c87dbae5a328c776e244de571bb",
+      "sha256": "a8bd76742c83aa144d214da229f32b30fb394f875bee570b7abba4b6b495fd2d",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -187,7 +187,7 @@
     {
       "title": "First Dive",
       "path": "subnautica/dawn-beneath/headers/04-first-dive.png",
-      "sha256": "278678950330bbae111befe4b93d1a32ecfa353d15534ca3ac003e5af6d8b4c4",
+      "sha256": "28ce2a2c2f9bfcb37f8551efd00c0272fccb05dac0b767306e26875c3a6204ea",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -195,7 +195,7 @@
     {
       "title": "PDA, Maps & Controls",
       "path": "subnautica/dawn-beneath/headers/05-pda-maps-and-controls.png",
-      "sha256": "e17911ae69d61592b476a9806d18b59fab8f3fc811574401670e3e877895bc0b",
+      "sha256": "da632a92d2b7d3c96a50e409435780dbeb91821d6e2dbde9aed1eb5eb3dffec1",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -203,7 +203,7 @@
     {
       "title": "Survival & Crafting",
       "path": "subnautica/dawn-beneath/headers/06-survival-and-crafting.png",
-      "sha256": "740724a273d0cee896515f6a231b19d1668ea109ac492e01ec112caa36af9133",
+      "sha256": "46020c6cb332b1a5ff1a491796941848df8dcaa72325af5543a72205cd34f304",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -211,7 +211,7 @@
     {
       "title": "Vehicles & Equipment",
       "path": "subnautica/dawn-beneath/headers/07-vehicles-and-equipment.png",
-      "sha256": "21c028c2d6c3b9684ea5369936443c6f42141ea099489cb2e03d0864f9777536",
+      "sha256": "29748493b3a6847fa6392ab7bc142e4dc94051d16e8b4825fffdcb78c634516c",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -219,7 +219,7 @@
     {
       "title": "Habitat Building",
       "path": "subnautica/dawn-beneath/headers/08-habitat-building.png",
-      "sha256": "a6a0a65797155fa9e7bc74bf83025168fd724209dd45bc4ad9bbea8c1ccefa07",
+      "sha256": "6a264366389b199ac8c511ae760f79d0502c7f01d95c52bd67d05566e914c57b",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -227,7 +227,7 @@
     {
       "title": "Wildlife & Ecology",
       "path": "subnautica/dawn-beneath/headers/09-wildlife-and-ecology.png",
-      "sha256": "b784e690c83f4fe5449763c8cd7c76b58288bc588459df136f23fa2e02e9510a",
+      "sha256": "ca45f7489676a91aded88db8fafa347d1c8c19b6efc9bd7f8080c57f2d570693",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -235,7 +235,7 @@
     {
       "title": "Biomes & Wrecks",
       "path": "subnautica/dawn-beneath/headers/10-biomes-and-wrecks.png",
-      "sha256": "9a5c017ace8dce4a92319de271204827433240e7d0532db524d4990590ea9bed",
+      "sha256": "d93d74407ad0e9b1e583a327ed23f557c5be8ce303192aa7dfab8eb9fe70af45",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -243,7 +243,7 @@
     {
       "title": "Story & Expeditions",
       "path": "subnautica/dawn-beneath/headers/11-story-and-expeditions.png",
-      "sha256": "a843c479383a9358a7f8f5d058cda81008eadece942e5d865039cc096f94c5aa",
+      "sha256": "a4400af7ebdefea145ecb29887e0e3f98354eba5422c7f28a6aec7f0515d5401",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -251,7 +251,7 @@
     {
       "title": "Sound & Atmosphere",
       "path": "subnautica/dawn-beneath/headers/12-sound-and-atmosphere.png",
-      "sha256": "ebd45770f726dfd23503d72c05de974be2fd7e5c889a07ff671490e1271c08b8",
+      "sha256": "0cd1df3ea34810c6d083db9722f87ff1a0fa111ff6725e19a8ecdd0ee958957a",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -259,7 +259,7 @@
     {
       "title": "Options & Compatibility",
       "path": "subnautica/dawn-beneath/headers/13-options-and-compatibility.png",
-      "sha256": "50e1f88163edb4ce9a8f674e4395021c5b6b33fbcc0ea96d6fa8f377501188da",
+      "sha256": "08b37189eba1afe530a133b10ace678ba3f5bb298df8f2254cd2adc395f80d08",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -267,7 +267,7 @@
     {
       "title": "Updates & Patch Notes",
       "path": "subnautica/dawn-beneath/headers/14-updates-and-patch-notes.png",
-      "sha256": "104056bcf86b30b11da97ee5685ad36979115463188b4d16f07b00c86126d903",
+      "sha256": "80b75636d5447a5cdf4590880d97c23c107438a682d81c1a46fb984c38978917",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -275,7 +275,7 @@
     {
       "title": "Troubleshooting & Support",
       "path": "subnautica/dawn-beneath/headers/15-troubleshooting-and-support.png",
-      "sha256": "2b81fc7d6509a2ca1921752fd950ce687e3ee5b50c17302b2320e456dccbeea1",
+      "sha256": "96dab2b6e1f2b43adf1ffe38a6c766e0b2831bdf21a1fb0d53e39637d47f939a",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
@@ -283,7 +283,7 @@
     {
       "title": "Credits & Thanks",
       "path": "subnautica/dawn-beneath/headers/16-credits-and-thanks.png",
-      "sha256": "4eb42af3ea1b3b9f399f23dd46aef3820b54184c08ace3f58f6c784fb41fde4e",
+      "sha256": "4e297c61bfdc6daec940c6fefc350a00b0d9d42f201c399a8c99ab25d16371f9",
       "width": 2172,
       "height": 724,
       "pngColorType": 6
