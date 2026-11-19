@@ -287,6 +287,46 @@
       "width": 2172,
       "height": 724,
       "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Dragon Age - Other Campaigns",
+      "path": "dragon-age-origins/collection-media/screenshot-7718.png",
+      "sha256": "0e27fa910913fa3e4ddad647797a54d08d8b7fe4dce519ba15ec3111181cc8ac",
+      "width": 4096,
+      "height": 2160,
+      "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Dragon Age - Character Attributes",
+      "path": "dragon-age-origins/collection-media/screenshot-7719.png",
+      "sha256": "53c88049c01bd4242b64fd1ce34194b1aafed18d141fc69ea5659a40c5151c73",
+      "width": 4096,
+      "height": 2160,
+      "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Dragon Age - Character Talents",
+      "path": "dragon-age-origins/collection-media/screenshot-7689.png",
+      "sha256": "e3d370eea188e6b3add36818a54693216f7cc50f665ddbbd7e6c9193da5dc58d",
+      "width": 4096,
+      "height": 2160,
+      "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Dragon Age - Character Skills",
+      "path": "dragon-age-origins/collection-media/screenshot-7688.png",
+      "sha256": "072b40a20e5c8f4445ed6d3621b5990d763cf724ed7963276ff75f9f58711a15",
+      "width": 4096,
+      "height": 2160,
+      "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Dragon Age - Controller Character Naming",
+      "path": "dragon-age-origins/collection-media/screenshot-7687.png",
+      "sha256": "329af36ca8acbbd3ce36eaafd10873930ad69aa78f6a09ceb3d45a2b8e470def",
+      "width": 4096,
+      "height": 2160,
+      "pngColorType": 6
     }
   ]
 }
