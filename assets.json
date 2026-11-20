@@ -327,6 +327,110 @@
       "width": 4096,
       "height": 2160,
       "pngColorType": 6
+    },
+    {
+      "title": "Dawn of the Thames",
+      "path": "fallout-london/dawn-of-the-thames/title.png",
+      "sha256": "b522540b43a92765bf0a5baf9a8adadc515bcdc304fbcd3107cd606c42a0392b",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Installation",
+      "path": "fallout-london/dawn-of-the-thames/headers/01-installation.png",
+      "sha256": "7f4d1908979846bdb55139397fcb13466ac2f0dd8154fcf31a1b0b2e5f64c1f9",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "First Run",
+      "path": "fallout-london/dawn-of-the-thames/headers/02-first-run.png",
+      "sha256": "f158c64df5dabc54dca2776850e8eedf09f677f9692e69059bd3bfe334fec108",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Boroughs & Exploration",
+      "path": "fallout-london/dawn-of-the-thames/headers/03-boroughs-and-exploration.png",
+      "sha256": "39eb0ffd2420c8c4fc7219574fae5d653af6c82e6e0d33ef8ca488ba0b7e25f5",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Quests & Factions",
+      "path": "fallout-london/dawn-of-the-thames/headers/04-quests-and-factions.png",
+      "sha256": "123be2f049c12d90bfa4e907ce06c0869cc4ad6a9a4eed33861247f75a91ce49",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Companions",
+      "path": "fallout-london/dawn-of-the-thames/headers/05-companions.png",
+      "sha256": "348d14f2b92a5360429af7b13bde62e8cf052c34b04dbcb247f6178f80f2f957",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Settlements & Workshops",
+      "path": "fallout-london/dawn-of-the-thames/headers/06-settlements-and-workshops.png",
+      "sha256": "e264287f73e5b5b17d8ffc7e4b0dc366ecb73bd227caa6e668d4269d0bbd65e4",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Combat & Progression",
+      "path": "fallout-london/dawn-of-the-thames/headers/07-combat-and-progression.png",
+      "sha256": "b33f95cd9f5cbf9df4d105fef899db6a529ef4c027f6cc23e0c530a4fdf4208b",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Weapons & Armour",
+      "path": "fallout-london/dawn-of-the-thames/headers/08-weapons-and-armour.png",
+      "sha256": "5fab6d05258fd6edc68a4624179e13b8472c97cedb7b626560f343c70e35892a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Tickets, Trade & Crafting",
+      "path": "fallout-london/dawn-of-the-thames/headers/09-tickets-trade-and-crafting.png",
+      "sha256": "bb9e8f21af937f1b4d987a1ab07caa7760cfce4fed101936575cb4f83ce9b10a",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Atta-Boy, Maps & Controls",
+      "path": "fallout-london/dawn-of-the-thames/headers/10-atta-boy-maps-and-controls.png",
+      "sha256": "1302aa687279dca566682ed0ed7d755f0f0aee70fbdcac8cdd1db6c081fb0fb6",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Graphics & Atmosphere",
+      "path": "fallout-london/dawn-of-the-thames/headers/11-graphics-and-atmosphere.png",
+      "sha256": "53bd93a09c35392f9f7b3c8a65b1989bb52b2f379807b5c50e81bae0becde9b1",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
+    },
+    {
+      "title": "Credits & Thanks",
+      "path": "fallout-london/dawn-of-the-thames/headers/12-credits-and-thanks.png",
+      "sha256": "2092d64945e1259320cee8508b8d71e679dc074ac9cdeb05dd33a8723f676ff8",
+      "width": 2172,
+      "height": 724,
+      "pngColorType": 6
     }
   ]
 }
