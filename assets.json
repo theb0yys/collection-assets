@@ -337,6 +337,16 @@
       "pngColorType": 6
     },
     {
+      "title": "Dawn of the Thames trailer",
+      "path": "fallout-london/dawn-of-the-thames/videos/dawn-of-the-thames-promo.mp4",
+      "sha256": "f78a41faa66b9cf4770c32411a03e4762ad386a77a5ac4b64bfcfeebeada7252",
+      "width": 1920,
+      "height": 1080,
+      "durationSeconds": 52.783,
+      "bytes": 88076640,
+      "mediaType": "video/mp4"
+    },
+    {
       "title": "Installation",
       "path": "fallout-london/dawn-of-the-thames/headers/01-installation.png",
       "sha256": "7f4d1908979846bdb55139397fcb13466ac2f0dd8154fcf31a1b0b2e5f64c1f9",
